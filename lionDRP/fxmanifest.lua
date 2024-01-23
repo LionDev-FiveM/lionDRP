@@ -1,10 +1,10 @@
 fx_version 'cerulean'
 game 'gta5'
-version '1.1'
 lua54 'on'
 
 author 'Lion Development'
 description 'DiscordRichPresence'
+version '1.1'
 
 client_scripts {
 	'client.lua',

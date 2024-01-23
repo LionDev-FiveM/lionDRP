@@ -16,14 +16,15 @@ _      _               _____                 _                                  
 |______|_|\___/|_| |_| |_____/ \___| \_/ \___|_|\___/| .__/|_| |_| |_|\___|_| |_|\__|
                                                     | |                             
                                                     |_|                             
-Script: lionDRP
+Script: lionKeyboardLayout
 UPDATE: %s AVAILABLE
 CHANGELOG: %s
+Download: https://github.com/LionDev-FiveM/lionDRP
 If you need help, join our Discord: https://dsc.gg/lion-dev
 ]]):format(rv.version, rv.changelog))
                 end
             else
-                print('nearest-postal was unable to check the version')
+                print('Error in versioncheck')
             end
         end, 'GET')
     end
