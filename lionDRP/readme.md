@@ -13,8 +13,8 @@
 #### Installation
 1. Drag & Drop the Script of your server
 2. Open your Server.cfg / CFG Editor in TxAdmin
-3. Add "ensure zvDRP" to your cfg
+3. Add "ensure lionDRP" to your cfg
 4. Enjoy it!
 
 ##### Support
-Discord: https://dsc.gg/zvcoding
+Discord: https://dsc.gg/lion-dev
